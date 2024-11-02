@@ -12,6 +12,7 @@
 - ⚡ Aspiring to become a top-tier specialist in the Computer Graphics, Game Development, or Visual Effect industries.
 - 😄 **Fun Fact**: I love movies and animations! Feel free to DM me to chat about anything related.
 - 🎮 Recently developed several fun computer games – check them out [here](https://rogerguan.itch.io/)!
+- 📫 Explore my personal website [here](https://guanroger.github.io/)!
 
 ---
 ### 🎓 Academic History
