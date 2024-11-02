@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🏫 Graduated from HKUST, I am currently a Master Computer Science student at NYU Tandon.
 - 🔭 I’m currently working on computer graphics projects using OpenGL and C++.
 - 🌱 I’m learning more about 3D modeling and animation with Blender and Maya.
 - 👯 I’m looking to collaborate on AI and computer graphics projects.
