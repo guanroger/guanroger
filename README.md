@@ -5,7 +5,7 @@
 
 ### About me
 
-- 🔭 **Enthusiast in Computer Graphics, Game Design, and Animation**
+- 🔭 **Enthusiast in Computer Graphics, Game Design, and Animation.**
 - 🌱 Exploring advanced 3D Modeling and Animation techniques with tools like Blender, Maya, and other industry standards.
 - 🎨 Passionate about blending technical skills with creativity to bring artistic and visual projects to life through computer science.
 - 🖥️ Skilled in programming, with a focus on creating visually compelling applications.
