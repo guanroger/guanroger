@@ -5,7 +5,7 @@
 | Degree                     | Field                     | Institution                    | Year       |
 |----------------------------|---------------------------|--------------------------------|------------|
 | Master of Science (M.S.)   | Computer Science          | NYU Tandon School of Engineering | 2023 - Present |
-| Bachelor of Science (B.S.) | Computer Science          | Hong Kong University of Science and Technology (HKUST) | Graduated |
+| Bachelor of Engineering (B.Eng.) | Computer Science          | Hong Kong University of Science and Technology (HKUST) | Graduated |
 
 ---
 
