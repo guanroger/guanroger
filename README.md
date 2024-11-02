@@ -1,11 +1,10 @@
 ## Hi there 👋 I am Guan-Cherng Lin (Roger) 🐕
 
+---
 ### 🎓 Academic History
 
 #### NYU Tandon School of Engineering
 *Master of Science in Computer Science @ New York University* 2023 - Present
-
----
 #### Hong Kong University of Science and Technology (HKUST)
 *Bachelor of Engineering (B.Eng.) in Computer Science @ HKUST* 2017 - 2021
 
