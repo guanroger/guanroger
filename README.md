@@ -1,4 +1,6 @@
 ## Hi there 👋 I am Guan-Cherng Lin (Roger) 🐕
+❗ Currently seeking internship or full-time opportunities as a **Software Developer**, **Game Developer**, or **Computer Graphics Developer**. Open to roles where I can apply my skills in coding, 3D modeling, and visual development to create engaging, high-quality digital experiences.
+
 
 
 ### About me
