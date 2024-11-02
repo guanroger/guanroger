@@ -29,7 +29,7 @@
 
 Welcome to my GitHub page!
 
-[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanroger)](https://github.com/guanroger/github-readme-stats)
+<!-- [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanroger)](https://github.com/guanroger/github-readme-stats) -->
 
 <!--
 **guanroger/guanroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
