@@ -2,17 +2,12 @@
 
 ### 🎓 Academic History
 
-| Degree                     | Field                     | Institution                    | Year       |
-|----------------------------|---------------------------|--------------------------------|------------|
-| Master of Science (M.S.)   | Computer Science          | NYU Tandon School of Engineering | 2023 - Present |
-| Bachelor of Engineering (B.Eng.) | Computer Science          | Hong Kong University of Science and Technology (HKUST) | Graduated |
-
 #### NYU Tandon School of Engineering
-*Master of Science in Computer Science @ New York University* 
+*Master of Science in Computer Science @ New York University* 2023 - Present
 
 ---
 #### Hong Kong University of Science and Technology (HKUST)
-*Master of Science in Computer Science @ New York University* 
+*Bachelor of Engineering (B.Eng.) in Computer Science @ HKUST* 2017 - 2021
 
 ---
 
