@@ -4,16 +4,21 @@
 ### 🎓 Academic History
 
 #### NYU Tandon School of Engineering
-*Master of Science in Computer Science @ New York University* 2023 - Present
+> 2023 - Present
+> 
+> *Master of Science in Computer Science @ New York University*
 #### Hong Kong University of Science and Technology (HKUST)
-*Bachelor of Engineering (B.Eng.) in Computer Science @ HKUST* 2017 - 2021
+> 2017 - 2021, Graduated
+> 
+> *Bachelor of Engineering (B.Eng.) in Computer Science @ HKUST* 
 
 ---
 
 
-- 🏫 Graduated from HKUST, I am currently a Master Computer Science student at NYU Tandon.
-- 🔭 I’m currently working on computer graphics projects using OpenGL and C++.
-- 🌱 I’m learning more about 3D modeling and animation with Blender and Maya.
+- 🔭 Computer Graphics, Computer Game Design, Animation Enthusiastic.
+- 🌱 Currently diving deeper into 3D modeling and animation using Blender, Maya, and other industry-standard tools.
+- 🎨 Passionate about combining technical skills with creative, artistic projects that blend computer science with visual art.
+
 - 👯 I’m looking to collaborate on AI and computer graphics projects.
 - 🤔 I’m looking for help with advanced OpenGL rendering techniques.
 - 💬 Ask me about animation, game development, or anything computer graphics-related!
