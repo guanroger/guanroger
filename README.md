@@ -15,9 +15,11 @@
 ---
 
 
-- 🔭 Computer Graphics, Computer Game Design, Animation Enthusiastic.
-- 🌱 Currently diving deeper into 3D modeling and animation using Blender, Maya, and other industry-standard tools.
-- 🎨 Passionate about combining technical skills with creative, artistic projects that blend computer science with visual art.
+- 🔭 **Enthusiast in Computer Graphics, Game Design, and Animation**
+- 🌱 Exploring advanced 3D modeling and animation techniques with tools like Blender, Maya, and other industry standards.
+- 🎨 Passionate about blending technical expertise with creativity to bring artistic projects to life through computer science.
+- 🖥️ Skilled in coding, with a focus on creating visually compelling applications.
+- ⚡ Aspiring to become a top-tier specialist in the Computer Graphics, Game Development, and Animation industries.
 
 - 👯 I’m looking to collaborate on AI and computer graphics projects.
 - 🤔 I’m looking for help with advanced OpenGL rendering techniques.
