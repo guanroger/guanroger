@@ -1,5 +1,12 @@
 ## Hi there 👋 I am Guan-Cherng Lin (Roger) 🐕
 
+
+- 🔭 **Enthusiast in Computer Graphics, Game Design, and Animation**
+- 🌱 Exploring advanced 3D modeling and animation techniques with tools like Blender, Maya, and other industry standards.
+- 🎨 Passionate about blending technical expertise with creativity to bring artistic projects to life through computer science.
+- 🖥️ Skilled in coding, with a focus on creating visually compelling applications.
+- ⚡ Aspiring to become a top-tier specialist in the Computer Graphics, Game Development, or Visual Effect industries.
+
 ---
 ### 🎓 Academic History
 
@@ -14,12 +21,6 @@
 
 ---
 
-
-- 🔭 **Enthusiast in Computer Graphics, Game Design, and Animation**
-- 🌱 Exploring advanced 3D modeling and animation techniques with tools like Blender, Maya, and other industry standards.
-- 🎨 Passionate about blending technical expertise with creativity to bring artistic projects to life through computer science.
-- 🖥️ Skilled in coding, with a focus on creating visually compelling applications.
-- ⚡ Aspiring to become a top-tier specialist in the Computer Graphics, Game Development, or Visual Effect industries.
 
 
 
