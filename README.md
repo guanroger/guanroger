@@ -24,7 +24,12 @@
 #### Hong Kong University of Science and Technology (HKUST)
 > 2017 - 2021, Graduated
 > 
-> *Bachelor of Engineering (B.Eng.) in Computer Science @ HKUST* 
+> *Bachelor of Engineering (B.Eng.) in Computer Science @ HKUST*
+#### State University of New York at Stony Brook (SBU)
+> 2019 - 2019, Global Summer Institute
+> 
+> *Summer Exchange Program in Computer Science @ SBU* 
+
 
 ---
 
